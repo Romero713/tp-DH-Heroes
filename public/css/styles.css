@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+}
+h1{
+color: black;
+}
+header{
+    color: black;
+}
+li{
+    color: aqua;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
